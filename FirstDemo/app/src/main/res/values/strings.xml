@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">FirstDemo</string>
-    <string name="app_dis">点击较大的按钮的一份，点错扣一分</string>
-    <string name="app_score">得分：%1$d !</string>
-</resources>
